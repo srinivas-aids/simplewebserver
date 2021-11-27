@@ -72,9 +72,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-!serverside1(./images/serverside1.png)
-!serverside2(./images/serverside2.png)
-!clientside(./images/clientside.png)
+![serverside1](./images/serverside1.png)
+![serverside2](./images/serverside2.png)
+![clientside](./images/clientside.png)
 
 
 ## RESULT:
